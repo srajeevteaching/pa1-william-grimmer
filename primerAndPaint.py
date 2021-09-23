@@ -1,3 +1,10 @@
+# Team Members: Will Grimmer
+# Course: CS151, Dr.Rajeev
+# Date: [9/22/21]
+# Programming Assignment: 1
+# Program Inputs: [Length, Width, Height]
+# Program Outputs: [Total Area in square feet, paint needed in gallons, primer needed in gallons]
+
 l=float(input("Please give the length in feet"))
 w=float(input("Please give the width in feet"))
 h=float(input("Please give the height in feet"))
