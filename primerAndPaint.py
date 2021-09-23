@@ -14,5 +14,5 @@ primer = area/200
 paint = area/350
 
 print("the total area is " + str(area) + " squared feet")
-print("the amount of primer needed is %.2f gallons" % round(primer,2))
-print("the amount of paint needed is %.2f gallons"% round(paint,2))
+print("the amount of primer needed is %.2f gallons" % primer)
+print("the amount of paint needed is %.2f gallons"% paint)
